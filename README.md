@@ -15,7 +15,7 @@ My goal is simple: **keep improving every day, deliver solid work, and grow my c
 ### 🛠 Tech Stack  
 
 **Languages**  
-- Java | C# (.NET 6+) | SQL  
+- Java | C# (.NET 8+) | SQL  
 
 **Frameworks & Tools**  
 - Spring Boot | ASP.NET Core MVC / Razor Pages / Blazor / SignalR  
