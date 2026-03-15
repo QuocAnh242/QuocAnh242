@@ -1,6 +1,6 @@
 ## Welcome To My Profile ! You call me Greekz
 
-**Business Analyst** | **.NET Full-Stack Developer** | 
+**Business Analyst** | **.NET Full-Stack Developer**
 
 ---
 
