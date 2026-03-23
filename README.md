@@ -1,36 +1,63 @@
-## Welcome To My Profile ! You call me Greekz
+<h1 align="center">Quoc Anh</h1>
 
-**Business Analyst** | **.NET Full-Stack Developer**
-
----
-
-### About Me  
-I’m a developer passionate about **Team Leading** , **Requirement Analyst** . and **building scalable systems**
-I enjoy solving complex problems, designing efficient solutions, and continuously learning new technologies.
-
-My goal is to keep pushing & be better every single day of my life
-
-**keep improving every day, and grow my career** — Hard times create strong men.  
+<p align="center">
+Business Analyst · .NET Full-Stack Developer · Architecture Design Enthusiast
+</p>
 
 ---
 
-### Tech Stack
+### About
 
-**Languages**  
-- Java | C# (.NET 10+) | SQL  
+I am a software developer focused on building scalable systems and clean architectures.  
+My main interests are backend engineering, system design, and high-performance applications.
 
-**Frameworks & Tools**  
-- Spring Boot | ASP.NET Core MVC | Microservices
-- Unity  
-- Docker | Swagger | Postman | Documentations (BRD, SRS, User Stories)
-Git | GitHub | GitHub Actions 
+I enjoy solving complex problems, leading teams, and continuously improving my technical skills.
+
+> Keep improving every day — Hard times create strong men.
 
 ---
 
-### My GitHub Stats  
-[![QuocAnh's GitHub stats (Dark)](https://github-readme-stats.vercel.app/api?username=QuocAnh242&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/QuocAnh242/github-readme-stats#gh-dark-mode-only)  
+### Stack
+
+C# · .NET · Java · JavaScript · React · NextJS  
+PostgreSQL · SQL Server · MongoDB · MySQL  
+Docker · Kubernetes · AWS · Azure · Nginx  
+Git · GitHub · GitLab · Jira · Swagger · Postman  
+
+Focus: Microservices / Clean Architecture / System Design
 
 ---
 
-### Let’s Connect  
-I wish to connect with you all! I’m always open to learn 
+### Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=QuocAnh242&show_icons=false&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocAnh242&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=QuocAnh242&theme=github-dark&hide_border=true" />
+
+</p>
+
+---
+
+### Current Focus
+
+- System Design
+- Microservices Architecture
+- High Performance Backend
+- Cloud Infrastructure
+- Distributed Systems
+
+---
+
+### Contact
+
+GitHub: https://github.com/QuocAnh242
+
+---
+
+<p align="center">
+<sub>Always learning. Always building.</sub>
+</p>
