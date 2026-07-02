@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="100%" height="100%">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap');
+    .text {
+      font-family: 'Marcellus', serif;
+      fill: #C7A54A;
+      font-size: 16px;
+      letter-spacing: 5px;
+      text-anchor: middle;
+      font-weight: 600;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#0D0D0D" opacity="0"/>
+  <text x="400" y="25" class="text">BE 1% BETTER ON EVERY SINGLE DAY</text>
+</svg>

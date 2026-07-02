@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" width="840" height="220" role="img" aria-label="OAuth 2.0">
+  <text
+    x="50%"
+    y="50%"
+    fill="#92D050"
+    font-family="Arial Rounded MT Bold, Avenir Next Rounded, Segoe UI Rounded, Segoe UI, Arial, sans-serif"
+    font-size="128"
+    font-weight="700"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    letter-spacing="-1"
+  >
+    OAuth 2.0
+  </text>
+</svg>
