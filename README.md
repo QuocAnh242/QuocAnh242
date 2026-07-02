@@ -123,5 +123,13 @@
 
 <br/>
 <p align="center">
+  <em style="color:#C7A54A;">Thanks for stopping by <333</em>
+</p>
+
+<p align="center">
   <img src="./assets/footer.svg" width="60%" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=QuocAnh242&label=VISITS&style=flat&labelColor=0D0D0D&color=C7A54A&abbreviated=true" alt="Profile views counter" />
 </p>
