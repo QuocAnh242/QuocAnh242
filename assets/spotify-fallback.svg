@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" width="760" height="220">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C7A54A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C7A54A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#C7A54A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="220" rx="14" fill="#0D0D0D"/>
+  <rect x="1" y="1" width="758" height="218" rx="14" fill="none" stroke="#C7A54A" stroke-opacity="0.34"/>
+  <line x1="70" y1="42" x2="690" y2="42" stroke="url(#line)" stroke-width="1"/>
+  <line x1="70" y1="178" x2="690" y2="178" stroke="url(#line)" stroke-width="1"/>
+  <circle cx="135" cy="110" r="44" fill="#1DB954"/>
+  <path d="M111 96c22-7 48-5 67 6" fill="none" stroke="#0D0D0D" stroke-width="7" stroke-linecap="round"/>
+  <path d="M115 111c18-5 39-4 54 5" fill="none" stroke="#0D0D0D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M119 125c13-3 29-2 41 5" fill="none" stroke="#0D0D0D" stroke-width="5" stroke-linecap="round"/>
+  <text x="225" y="98" fill="#C7A54A" font-family="Marcellus, Georgia, serif" font-size="30" letter-spacing="3">SPOTIFY</text>
+  <text x="225" y="132" fill="#ECE9E1" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="2">NOW PLAYING FALLBACK</text>
+  <text x="225" y="158" fill="#8E9297" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="1.4">Add your Spotify UID later for live status</text>
+</svg>
